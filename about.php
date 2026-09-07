@@ -102,23 +102,18 @@
         <div class="team-grid">
             <div class="team-card">
                 <div class="team-avatar"><i class="fas fa-user-tie"></i></div>
-                <h4>Team Member 1</h4>
-                <p>Position / Role</p>
+                <h4>Encik Hayat</h4>
+                <p>Pengarah</p>
             </div>
             <div class="team-card">
                 <div class="team-avatar"><i class="fas fa-user-tie"></i></div>
-                <h4>Team Member 2</h4>
-                <p>Position / Role</p>
+                <h4>Puan Hartini</h4>
+                <p>HR</p>
             </div>
             <div class="team-card">
                 <div class="team-avatar"><i class="fas fa-user-tie"></i></div>
-                <h4>Team Member 3</h4>
-                <p>Position / Role</p>
-            </div>
-            <div class="team-card">
-                <div class="team-avatar"><i class="fas fa-user-tie"></i></div>
-                <h4>Team Member 4</h4>
-                <p>Position / Role</p>
+                <h4>Puan Aliyah</h4>
+                <p>HR</p>
             </div>
         </div>
         <p class="team-note">*Team members will be updated soon.</p>
