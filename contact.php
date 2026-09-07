@@ -12,25 +12,37 @@
         <div class="contact-grid">
             <div class="contact-info-box">
                 <h3>Contact Information</h3>
+                
+                <!-- Email -->
                 <div class="contact-detail">
-                    <i class="fas fa-envelope"></i>
-                    <div>
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="contact-text">
                         <strong>Email</strong>
                         <p><a href="mailto:inquiry@2enapps.my">inquiry@2enapps.my</a></p>
                     </div>
                 </div>
+
+                <!-- Phone -->
                 <div class="contact-detail">
-                    <i class="fas fa-phone"></i>
-                    <div>
+                    <div class="contact-icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <div class="contact-text">
                         <strong>Phone</strong>
                         <p>+603-1234 5678</p>
                     </div>
                 </div>
+
+                <!-- Address -->
                 <div class="contact-detail">
-                    <i class="fas fa-map-marker-alt"></i>
-                    <div>
+                    <div class="contact-icon">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="contact-text">
                         <strong>Address</strong>
-                        <p>2en Apps Sdn Bhd<br>Kuala Lumpur, Malaysia</p>
+                        <p>2en Apps Sdn Bhd.<br>F-2-6, Blok F, Jalan GC 3, Glomac Cyberjaya, 63000 Cyberjaya, Selangor</p>
                     </div>
                 </div>
             </div>

@@ -1,4 +1,4 @@
-    </main>
+</main>
     <footer>
         <div class="container">
             <!-- Footer Ringkas - 3 Column -->
